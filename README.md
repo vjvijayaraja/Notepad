@@ -5,4 +5,4 @@ Features\
 Create new text files\
 Save text files to your local machine\
 Open and edit existing text files\
-A clean and intuitive user interface\
+A clean and intuitive user interface
