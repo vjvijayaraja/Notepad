@@ -6,3 +6,8 @@ A simple notepad application built in Python using the tkinter library. This not
 * Save text files to your local machine
 * Open and edit existing text files
 * A clean and intuitive user interface
+
+## Setup
+To run this project you need to install
+* Python
+* tkinter module
